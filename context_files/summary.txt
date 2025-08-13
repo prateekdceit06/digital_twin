@@ -1,0 +1,47 @@
+Hello! I'm Prateek Jain, currently a PhD candidate in Computer Science at Boston University. My research lies at the intersection of network protocols, data integrity, and edge computing, with a focus on optimizing network communication and enhancing the reliability of data transfer — particularly within the transport layer.
+Currently, I am a Research Intern at Google, where I’m working on evaluating connection migration in the QUIC protocol to understand its performance across varying network conditions. This project explores how QUIC can maintain low latency and connection stability even in dynamic and challenging environments, contributing to its broader adoption in modern internet infrastructure.
+At Boston University, my work includes developing a RINA-based Multi-Layer Error Detection (MLED) model in collaboration with the National Science Foundation (NSF). This project aims to reduce undetected errors in large-scale file transfers by leveraging FPGA support for high-speed CRC calculations, significantly boosting error-checking efficiency and reliability.
+Another exciting area of my research focuses on real-time stream processing. I designed a heterogeneity-aware operator placement algorithm that distributes computational tasks between central servers and edge devices (like Raspberry Pi) to optimize latency and bandwidth usage. This work has shown measurable improvements when applied to stream processing frameworks such as Apache Flink, especially in network-constrained environments.
+Before entering academia, I served as an Assistant Commandant (Technical) with India’s Central Reserve Police Force (CRPF) for eight years, where I led various technology-driven initiatives. That experience continues to shape my perspective as a researcher, grounding my work in real-world problem-solving and technical leadership
+Through my research and collaborations, I aim to push the boundaries of network systems, transport protocols, and edge computing, making meaningful contributions that support more reliable, efficient, and resilient digital infrastructure.
+On this website, you'll find updates on my research, selected publications, and reflections from my ongoing journey at the intersection of theory, practice, and innovation.
+My website: https://cs-people.bu.edu/jainp/
+
+Prateek Jain, Arash Sarabi, Abraham Matta, and Violet R. Syrotiuk. (2025). Design and Modeling of a New File Transfer Architecture to Reduce Undetected Errors Evaluated in the FABRIC Testbed. Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS), 9(2), Article 19. https://doi.org/10.1145/3727111
+
+Prateek Jain, Arash Sarabi, Abraham Matta, and Violet R. Syrotiuk. (2025). Design and Modeling of a New File Transfer Architecture to Reduce Undetected Errors Evaluated in the FABRIC Testbed. In Abstracts of the 2025 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS Abstracts '25), June 9–13, 2025, Stony Brook, NY, USA. ACM. https://doi.org/10.1145/3726854.3727281
+
+
+
+𝐅𝐫𝐨𝐦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐢𝐧𝐠 𝐓𝐫𝐨𝐨𝐩𝐬 𝐭𝐨 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐢𝐧𝐠 𝐂𝐨𝐝𝐞𝐬
+Greek philosopher, Heraclitus famously remarked, "The only thing that is constant is change," a quote that resonates deeply as I reflect on my journey from Delhi Technological University (Formerly DCE) to becoming an Assistant Commandant in the CRPF (Central Reserve Police Force), and finally, to Boston University (BU). Today after two years since I swapped my CRPF beret for a BU beanie, I'm making my first-ever LinkedIn post.
+After graduation from DCE, I dedicated myself to the rigorous preparation for the Union Public Service Commission( UPSC ) exam, culminating in my joining the Central Reserve Police Force as an Assistant Commandant in 2014. During an intensive year of training, I was honored with the "Sword of Honor," an award recognizing the top Trainee Officer for exemplary performance & leadership. In CRPF, leveraging my technical education, I was entrusted with the responsibility to lead initiatives focused on cybersecurity, big data analytics, AI for enhancing operational efficiency, security, and data management at the force level.
+Driven by a fervent desire to explore the depths of technology, I resigned from my service on 31st March 2022, pivoting towards a new chapter at Boston University. There, I completed my MS in Computer Science with a 3.96 CGPA. During MS, my role as a Research Assistant allowed me to dive into network research, igniting a passion for discovering innovative solutions to complex problems which led me to pursue a PhD at BU. 
+As I've journeyed from disciplined military life to the intellectually stimulating corridors of academia, I've distilled 03 key lessons:
+Adaptability: The leap from the CRPF to BU wasn't just a new chapter; it was a whole new narrative. This transition taught me adaptability isn't merely about surviving change but leveraging it for personal and professional growth.
+Lifelong Learning: This journey underscored learning as an endless adventure. Every achievement, from academic honors to professional accolades, reinforced the joy and fulfillment found in continual discovery and intellectual curiosity.
+Embracing the Unknown: Stepping from the structured world of defense into the exploratory sphere of research highlighted the dance between risk and reward. It's been a journey of embracing uncertainty with the confidence that every risk carries the seed of opportunity and innovation.
+These insights have not only shaped my career but also how I approach life's challenges and opportunities. Here's to continuing the journey with an open heart and a curious mind, ready for whatever changes come next.
+
+
+I had the privilege of serving as a mentor and judge at HackMIT 2024, hosted at the Massachusetts Institute of Technology. It was an incredible experience witnessing thousands of students from over 100 schools come together to tackle real-world challenges with innovative and impactful ideas.
+The passion, creativity, and collaboration I saw were truly inspiring. Huge congratulations to all the participants and winning teams for pushing the boundaries of what's possible. A big thank you to the HackMIT organizers for putting together such an amazing event! 🌟💻
+Excited to see how these ideas evolve and make a real difference! 
+
+“It always seems impossible until it’s done.” — Nelson Mandela
+I’m beyond excited to share that I’ve started my research internship at Google 
+It feels like a quiet milestone in a journey fueled by curiosity, consistency, and a deep love for learning.
+From my undergrad days at Delhi Technological University (Formerly DCE) to my current PhD journey at Boston University, it’s been a path full of twists, late nights, rejections, rewrites, and steady progress. There were no shortcuts — just small steps, one after another.
+I’m super grateful to my advisor Abraham Matta for his guidance, to my peers for their support, and to Fan Yang for this opportunity. I’ve learned that failures can be powerful teachers and that showing up every day makes all the difference.
+This internship isn’t the end goal — just a reminder that if you keep learning and growing, you can achieve anything. 😊
+
+I’m excited to share that our paper,
+“Design and Modeling of a New File Transfer Architecture to Reduce Undetected Errors Evaluated in the FABRIC Testbed,”
+has been accepted at ACM, Association for Computing Machinery SIGMETRICS 2025!
+We introduce Multi-Level Error Detection (MLED) - a recursive, in-network architecture that significantly reduces undetected errors in petabyte-scale file transfers.
+Grateful to my co-authors Arash Sarabi, Prof. Abraham Matta and Prof. Violet R. Syrotiuk.
+A special thank you to Prof. Matta and Prof. Syrotiuk for their constant mentorship, insight, and encouragement throughout this journey.
+We also thank the National Science Foundation (NSF) for supporting this work and the FABRIC team for their continuous help and support throughout our testing phases.
+📅 I’ll be presenting this work at ACM SIGMETRICS 2025 on June 11 - if you’re attending, I’d love to connect!
+📄 Read the full paper: https://lnkd.in/etV5C8gS
+📄 Read the extended abstract: https://lnkd.in/eihE9SwW
